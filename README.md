@@ -6,10 +6,11 @@
 </p>
 
 <p align="center">
-[![Hinreddit](https://github-readme-stats.vercel.app/api/pin/?username=syeehyn&repo=hinreddit)](https://github.com/syeehyn/hinreddit)
+    <img src="https://github-readme-stats.vercel.app/api?username=syeehyn&count_private=true&show_icons=true&theme=vue-dark&hide_title=true" alt="github stats" />
+<!-- [![Hinreddit](https://github-readme-stats.vercel.app/api/pin/?username=syeehyn&repo=hinreddit)](https://github.com/syeehyn/hinreddit)
 [![spatial](https://github-readme-stats.vercel.app/api/pin/?username=syeehyn&repo=Spatial-Data-Analysis)](https://github.com/syeehyn/Spatial-Data-Analysis)
 ![Jackie's github stats](https://github-readme-stats.vercel.app/api?username=syeehyn&hide=stars,prs,issues,contribs&count_private=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeehyn&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeehyn&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 </p>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
