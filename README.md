@@ -6,7 +6,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML         30 mins         █████████████████████░░░░   83.77 % 
-Git Config   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+
 ```
 <!--END_SECTION:waka-->
