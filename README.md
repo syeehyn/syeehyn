@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       6 hrs 12 mins   ████████████████████████▒   97.86 % 
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Python       3 hrs 35 mins   ████████████████████████░   96.35 % 
+JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 <!--END_SECTION:waka-->
